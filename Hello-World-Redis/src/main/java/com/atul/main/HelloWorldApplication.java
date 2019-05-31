@@ -14,7 +14,7 @@ import org.springframework.data.redis.serializer.GenericJackson2JsonRedisSeriali
 public class HelloWorldApplication 
 {
 
-	
+	//this is redis connection 
 	private static final String REDIS_URL = "redis-11109.c99.us-east-1-4.ec2.cloud.redislabs.com";
 	private static final int REDIS_PORT = 11109;
 	private static final String REDIS_PASSWORD="rrvkdlbsCqMrHj70bTT14Wc5ApOrVnpW";
